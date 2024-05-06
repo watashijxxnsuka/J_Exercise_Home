@@ -1,0 +1,19 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µµ„Éıÿÿÿÿ8Ù‹Úîô1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëœ¿¼şÿÿÿÿ8Ù‹Úîô1
+U
+java:S1854 "8Remove this useless assignment to local variable "str1".(¦ÑÛ8İ‹Úîô1
+G	java:S106"+Replace this use of System.out by a logger.(™„“Å8Ş‹Úîô1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ®Õ’8Ş‹Úîô1
+G	java:S106"+Replace this use of System.out by a logger.(Ñ–Ö–8ß‹Úîô1
+G	java:S106"+Replace this use of System.out by a logger.(Èå¼À8ß‹Úîô1
+G	java:S106"+Replace this use of System.out by a logger.(š¯Øè8ß‹Úîô1
+L	java:S106"+Replace this use of System.out by a logger.(ßóŞ³ÿÿÿÿÿ8ß‹Úîô1
+F
+java:S1481 ")Remove this unused "str1" local variable.(¦ÑÛ8à‹Úîô1
+J
+java:S1481!"-Remove this unused "strEmpty" local variable.(ÖÎ•°8à‹Úîô1
+I
+java:S1481#"'Remove this unused "PI" local variable.(ıßşÜıÿÿÿÿ8à‹Úîô1
+L	java:S106+"+Replace this use of System.out by a logger.(Å÷Ø”úÿÿÿÿ8à‹Úîô1
+L	java:S106,"+Replace this use of System.out by a logger.(üò¸°ûÿÿÿÿ8à‹Úîô1
